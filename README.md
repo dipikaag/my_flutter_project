@@ -11,6 +11,8 @@ This is our App_icon
                snake_time
                
 You enter the App and see the Homepage screen as shown here
+
+
 ![first page](https://user-images.githubusercontent.com/81377459/125933264-6efbda7e-fe50-4119-b502-f79e6c94ba2b.jpeg)
 
 Click on Start and you will start the game
